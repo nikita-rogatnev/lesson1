@@ -1,12 +1,12 @@
 body {
-background:red;
+    background: red;
 }
 
 h1 {
-color: white;
-text-transform: uppercase;
+    color: white;
+    text-transform: uppercase;
 }
 
 h1:hover {
-color:yellow
+    color: yellow;
 }
