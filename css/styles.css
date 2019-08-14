@@ -1,0 +1,12 @@
+body {
+    background: red;
+}
+
+h1 {
+    color: white;
+    text-transform: uppercase;
+}
+
+h1:hover {
+    color: yellow;
+}
